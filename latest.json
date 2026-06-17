@@ -1,0 +1,11 @@
+{
+    "version": "2.2.6",
+    "notes": "Actualización estable del sistema de gestión",
+    "pub_date": "2026-06-17T23:00:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXBPblFCSW81YkozWms2eFlwekJDTHZGV3lydkw5K29SMHV1S1g1S3RsS0pkMWxxZ01WZ2tvR3dtWENwZlpBcTh2OVlXbkcyaiswQXE4RUd0SjlLQ2lnRE5LWjdXeFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzI4NDQ0CWZpbGU6Q1JNIEJhbmNvIGRlIGFsaW1lbnRvc18yLjEuNV94NjQtc2V0dXAuZXhlCmZFaGNGUUd4elJDUmRpa3FLOElpb09ydWNpbjU2NFprMmQ3MGxlcXpPMkpoTW93TGdndE5DVGlMUllwYUJFSHcxRzg0N2QxVmRrQ0RjNERYakRhSER3PT0K",
+            "url": "https://github.com/MightyWolf117/MDE_MIRROR/releases/download/v2.2.6/CRM.Banco.de.alimentos_2.2.6_x64-setup.exe"
+        }
+    }
+}
