@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "notes": "Actualización automática del frontend",
-  "pub_date": "2026-06-18T22:04:21Z",
+  "pub_date": "2026-06-25T16:04:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXBPblFCSW81Yk5zekpLdEJMSENTaEJMNGZxWmVROFJua2oyTmtBbklLYVh4by9yWUtKTlV0NHFaR09TSVVOVnM3Tit1TFU1dU10eXp2M050ZlBhckdSRThmZ25GVlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODIwMjY0CWZpbGU6Q1JNLkJhbmNvLmRlLmFsaW1lbnRvc18yLjMuMF94NjQtc2V0dXAuZXhlCmJid25NMEQ0emgrS0V0d2hnL2c0OUV5QkFISW5oWnhiOHpTVWxUUTIydVpjUlRkQ1hwbm9zUTJOQWlTZE16SmZqSjB2THB4c2x3UmZ0S3BIYzg3bEJRPT0K",
-      "url": "https://github.com/MightyWolf117/MDE_MIRROR/releases/download/v2.3.0/CRM.Banco.de.alimentos_2.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXBPblFCSW81Yk9uUGJLc2pOWmIxcUN6dnRLQVY4VE1YQzdjNWo5ZGFoU1dGWkszVW5YY1FkN0thd3ZNVnBoVjMwckFKZ01DNStPeVVENGZSUEVNWjhsY2FyZ0huelFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDA0OTMyCWZpbGU6Q1JNLkJhbmNvLmRlLmFsaW1lbnRvc18yLjMuMV94NjQtc2V0dXAuZXhlCnZEWGNKYWxYRVpxb0d0Q2l4dWZzMVNHc3VIRWJ1YXJkalQ4OHU3YXd3bnR3VHJodC94K0wrZGxHcEtEK0EydGpNVEgxOTM0NmljSUNOZFB3YVhiaUJRPT0K",
+      "url": "https://github.com/MightyWolf117/MDE_MIRROR/releases/download/v2.3.1/CRM.Banco.de.alimentos_2.3.1_x64-setup.exe"
     }
   }
 }
